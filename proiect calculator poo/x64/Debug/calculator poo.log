@@ -1,0 +1,8 @@
+﻿  BasicOperations.cpp
+  Calculator.cpp
+F:\poo\calculator poo\Calculator.cpp(112,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+F:\poo\calculator poo\Calculator.cpp(118,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  CalculatorWithHistory.cpp
+  ScientificCalculator.cpp
+  Generating Code...
+  calculator poo.vcxproj -> F:\poo\calculator poo\x64\Debug\calculator poo.exe
